@@ -1,4 +1,4 @@
-package com.myapp.spring;
+package com.myapp.trip;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
